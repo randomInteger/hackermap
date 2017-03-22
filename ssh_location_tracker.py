@@ -12,6 +12,7 @@ fail2ban.
 
 Author:  Christopher Gleeson
 """
+from operator import itemgetter
 import subprocess
 import pprint
 import string
